@@ -1,0 +1,47 @@
+.container
+{
+
+    background-image: url(plage\ fond.jpeg);
+    padding-bottom: 400px;
+    
+    color: white;
+    
+}
+
+.container .header{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.container .center{
+    font-size: 30px;
+    padding-top: 250px;
+
+    
+}
+h2{
+   padding-left: 400px; 
+}
+.B{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.C{
+     margin-left: 100px;
+    margin-right: 100px;
+    flex-direction: column-reverse;
+
+    
+}
+.G{
+    padding-left: 120px;
+}
+.F{
+    display: flex;
+    justify-content: space-between;
+}
+
+ 
