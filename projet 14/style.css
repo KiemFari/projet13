@@ -1,47 +1,126 @@
-.container
-{
+
+.container {
 
     background-image: url(plage\ fond.jpeg);
-    padding-bottom: 400px;
-    
-    color: white;
-    
+    height: 600px;
+   
+     color:  white; 
 }
-
-.container .header{
-    
-    margin-left: 100px;
-    margin-right: 100px;
+.jj{
     display: flex;
     justify-content: space-between;
 }
-.container .center{
-    font-size: 30px;
-    padding-top: 250px;
-
-    
+header nav  {
+    margin-top: 0px;
+    display: flex; float: right;
 }
+
+
+header p {
+
+font-size: 30px;
+}
+header nav a {
+    font-size: 20px;
+    color: white;
+    border-bottom: none;
+    text-decoration: solid;
+    margin-left: 20px;
+}
+.center{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+}
+/*.right{
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-between;
+   /* border-bottom: none;*/
+
 h2{
-   padding-left: 400px; 
+
+    margin: 400px;
+    font-size: 100px;
+    
 }
 .B{
     display: flex;
-    justify-content: space-between;
-    
-}
-.C{
-     margin-left: 100px;
-    margin-right: 100px;
-    flex-direction: column-reverse;
-
+    justify-content: space-around;
+   /* margin-left: 20px;*/
     
 }
 .G{
-    padding-left: 120px;
+    margin-left: 30px;
 }
-.F{
+ section .E{
     display: flex;
     justify-content: space-between;
 }
+
+
+
+section .card-group{
+    display: flex;
+    justify-content: space-between;}
+    
+ .D {
+    display: flex;
+ }
+ /*h2{
+    margin: 100px;
+ }*/
+.Z{
+    width: 800px;
+    height: 800px;
+}
+.T{
+    padding-left: 400px;}
+    .L{
+        display: flex;
+        
+    }
+    /*.Y{
+        padding-left: 200px;
+    }
+    .V{
+        height: 100px;
+    }*/
+    h3{
+        padding-left: 100px;
+    }
+    .Q{
+        padding-left: 600px;
+        
+    }
+    .S{
+        display: flex;
+    
+    }
+    .N{
+        display: flex;
+    }
+    .K{
+        width: 260px;
+        height: 260px;
+    }
+    .P{
+        width: 300px;
+        height: 300px;
+    }
+    .chadii{
+        display: flex;
+        padding-left: 70px;
+        justify-content: space-evenly;
+    }
+    .X{
+        width: 500px;
+        
+    }
+    .photos{
+        padding-left: 100px;
+    }
+
+
 
  
