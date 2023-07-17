@@ -1,0 +1,95 @@
+.A{
+    background-color: blue;
+    text-align: center;
+    padding: 250px;
+}
+.B{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.ad{
+    text-align: center;
+}
+.D{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+.Da{
+    width: 300px;
+    height: 300px;
+}
+.Dc{
+    width: 100px;
+    height: 100px;
+}
+.Dd{
+    width: 300px;
+    height: 300px;
+}
+.C{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.span{
+    height: 100px;
+    width: 100px;
+}
+.F{
+    text-align: center;
+    
+}
+.Fa{
+    padding-left: 350px;
+    padding-right: 350px;
+    
+}
+.Fb{
+    align-items: center;
+}
+.G{
+    text-align: center;
+}
+.Ga{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.i{
+    width: 50px;
+    height: 50px;
+    background-color: chocolate;
+}
+.Qe{
+    color: chocolate;
+}
+.Ea{
+    text-align: center;
+}
+.Eb{
+    text-align: center;
+    
+}
+.sh{
+    display: flex;
+    height: 25px;
+    width: 25px;
+    padding-left: 200px;
+}
+.sc{
+    display: flex;
+    padding-left: 600px;
+    padding-right: 600px;
+    height: 25px;
+    width: 25px;
+}
+.Ma{
+    width: 300px;
+    height: 300px;
+}
