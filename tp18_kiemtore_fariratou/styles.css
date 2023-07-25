@@ -1,0 +1,490 @@
+
+header{
+    position: fixed;
+    width: 100%;
+    height: 15vh;
+    top: 0;
+    left: 0;
+    background: violet;
+    color: #000;
+    padding: 0 2rem;
+
+}
+.nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo{
+    font-size: 2rem;
+}
+.toggle{
+    display: none;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 900px;
+    margin-bottom: 300px;
+    list-style: none;
+    width: 500px;
+    
+}
+.menu li a{
+    color:blanchedalmond;
+    text-decoration: none;
+    
+    
+
+}
+.btn{
+    border: 0;
+    background: blue;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+}
+
+body{
+  font-weight: 250px;
+  font-family: sans-serif;
+  font-style: normal;
+  background: scroll;
+}
+.container-1
+{
+    display: flex;
+    background-color: bisque;
+    font-weight: 100px;
+}
+.container-1 .leftside
+{
+ justify-content: space-around;
+ padding-bottom: 10px;
+ padding-left: 20px;
+ padding-top: 100px;
+}
+.i
+{
+    color: darkorange;
+    align-items: baseline;
+}
+.b1
+{
+    background-color: darkorange;
+    padding-top: 10px;
+    font-size: 25px;
+    color: aliceblue;
+    border-radius: 15%;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+}
+.b
+{
+    background-color: bisque;
+    padding-top: 20px;
+    color: black;
+    font-size: 22px;
+    justify-content: space-around;
+    text-decoration: none;
+    font-weight: bold;
+}
+.b2
+{
+    font-size:25px;
+    padding-top: 10px;
+    color: black;
+    background-color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 15%;
+    text-decoration: none;
+}
+.b3
+{
+    background-color: darkorange;
+    padding-top: 20px;
+    font-size: 18px;
+    color: aliceblue;
+    border-radius: 15%;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container-1 .rightside
+{
+ justify-content: space-around;
+ padding-left: 350px;
+ padding-top: 50px;
+}
+.s 
+{
+    border-radius: 75%;
+    height: 45px;
+    width: 45px;
+}
+.section-i
+{
+    padding-top: 100px;
+    display: flex;
+}
+.p
+{
+    display: flex;
+    width: 500px;
+    height: 400px;
+   padding-top: 100px;
+}
+
+.kl{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width: 50px;
+}
+
+
+.ni{
+   padding-left: 660px; 
+   font-style: italic;  
+}
+.vi
+{
+    color: darkorange;
+    border: none;
+    font-size: 20px;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.container-2
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.si
+{
+
+    color: rgb(35, 63, 63);
+    width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+.a{
+    height: 400px;
+    width: 400px;
+    padding-top:50px;
+}
+.container-3
+{
+    display: flex;
+    justify-content: space-around;
+}
+.container-4
+{
+    display: flex;
+    justify-content: space-around;
+}
+.wi
+{
+    padding-top: 40px;
+    color: darkorange;
+}
+.container-5
+{
+   display: flex; 
+   justify-content: space-between;
+   justify-content: space-around;
+}
+.mi
+{
+    padding-left: 100px;
+    background-color: rgb(246, 244, 240);
+    border-radius: 5%;
+}
+.li
+{
+ padding-left: 100px;
+ background-color: rgb(246, 244, 240) ;
+ border-radius: 5%;
+}
+.v
+{
+    width: 250px;
+    height: 200px;
+}
+.bi
+{
+    padding-right: 100px;
+}
+.w 
+{
+    color: darkorange;
+    padding-left: 600px;
+    padding-top: 20px;
+}
+.container-6
+{
+    background-color: bisque;
+    display: flex;
+    margin: 0px;
+}
+.container-6 .rightside
+{
+ justify-content: space-around;
+ padding-top: 245px;
+ padding-left: 150px;
+}
+.container-6 .leftside
+{
+    justify-content: space-around;
+    padding-top: 45px;
+}
+.section-a
+{
+    display: flex;
+    padding-top: 95px;
+}
+.section-b
+{
+    display: flex;
+    padding-top: 95px;
+}
+.lime
+{
+ padding-right: 10px;
+    font-size: 20px;
+}
+.mile
+{
+    padding-left: 55px;
+    font-size: 20px;
+}
+.dime
+{
+   padding-right: 10px;
+    font-size: 20px;
+}
+.mide
+{
+    padding-left: 55px;
+    font-size: 20px;
+}
+.sa 
+{
+    border-radius: 76%;
+    height: 75px;
+    width: 75px;
+}
+.x
+{
+    height: 180px;
+    width: 180px;
+}
+.container-7
+{
+    display: flex;
+    justify-content: space-around;
+}
+.sept-i
+{
+    background-color: azure;
+    border-color: bisque;
+    font-size: 25px;
+    border-radius: 3%;
+    padding: 15px;
+}
+.sept-e
+{
+    background-color: bisque;
+    border-color: azure;
+    font-size: 25px;
+    border-radius: 3%;
+    padding: 15px;
+}
+.ai 
+{
+    background-color: yellow;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    text-overflow: clip;
+    transform: rotate(15deg);
+    text-align: center;
+}
+.ti 
+{
+    color: darkorange;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 35px;
+}
+.ei 
+{
+    font-weight: bolder;
+    color: black;
+    font-size: 100px;
+    padding: 35px;
+}
+.xi
+{
+    background-color: darkorange;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    border-radius: 15%;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+}
+.container-8
+{
+    display: flex;
+    justify-content: space-around;
+}
+.ji
+{
+    background-color: darkolivegreen;
+    color: aliceblue;
+    border-radius: 25%;
+    font-size:  25px;
+    justify-content: flex-end;
+}
+.container-9
+{
+    background-color: bisque;
+    size-adjust: content;
+    display: flex;
+    border-radius: 1%;
+
+}
+
+.container-9 .six
+{
+    background-color: aliceblue;
+    color: darkslategray;
+    border-radius: 35%;
+}
+.container-9 .leftside
+{
+    padding: 30px;
+}
+.min
+{
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    
+}
+.section-h
+{
+    justify-content: space-between;
+    
+}
+.section-p
+{
+    justify-content: space-around;
+    display: flex;
+    
+}
+.section-pi
+{
+    display: flex;
+    justify-content: space-around;
+}
+.lala
+{
+    height: 25px;
+    width: 20px;
+}
+.lila
+{
+    height: 35px;
+    width: 30px;
+}
+.container-10
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 200px;
+}
+.ridoss{
+    /*width: 100px;
+    height: 100px;*/
+   height: 2.2rem; 
+    
+}
+.toggle{
+    display: none;
+}
+
+.ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0;
+    
+}
+.sh{
+    display: flex;
+    height: 25px;
+    width: 25px;
+    padding-left: 30px;
+    justify-content: space-between;
+}
+/*@media all and (max-widh:991px) {
+    header{
+        background: transparent;
+    }
+    .toogle{
+        display: block;
+        font-size: 2rem;
+        cursor: pointer;
+        position: relative;
+        z-index: 20;
+    }
+    .logo{
+        position: relative;
+        z-index: 20;
+    }
+    .ouvrir{
+        display: block;
+
+    }
+    .fermer{
+        display: none;
+    }
+    .open.ouvrir{
+        display: none;
+
+    }
+    .open .fermer{
+        display: block;
+    }
+
+}
+.menu{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100vh;
+    background: #000;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: space-around;
+    transform: translateX(-100%);
+    transition: transform 1s;
+
+}
+.menu li a {
+    font-size: 1.5rem;
+}
+.open .menu{
+    transform: translateX(0);
+}
