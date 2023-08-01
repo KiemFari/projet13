@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    height: 100%;
+    background-color: violet;
+}
+nav{
+    align-items: center;
+    padding-left: 900px;
+    color: white;
+}
+
+.nav .li{
+    align-items: center;
+    background-color: blueviolet;
+    
+}
+.fari{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.leftside{
+    align-items: center;
+    padding-left: 200px;
+}
+.ridoss{
+    height: 500px;
+    width: 500px;
+}
+.rightside{
+    padding-left: 100px;
+     bottom: 50%;
+    background-color: blue;
+}
